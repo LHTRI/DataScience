@@ -1,4 +1,4 @@
-# Study process of Data Science and and typical projects
+# Study process of Data Science and typical projects
 
 ## 1. Introduction to Data Science
 ### 1.1. Data Science Methodology
