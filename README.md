@@ -1,8 +1,8 @@
-# Study Data Science
+# Study process of Data Science and and typical projects
 
 ## 1. Introduction to Data Science
 ### 1.1. Data Science Methodology
-### 1.2. Data Preprocessing - outlier detection
+### 1.2. Data Preprocessing
 
 ## 2. Data Analysis with Python
 ### 2.1. Pratice SQL
@@ -17,4 +17,4 @@
 ### 4.1. Image Classification
 ### 4.2. Text Classification
 
-## 5. Final_project - Horse racing prediction
+## 5. Final project - Horse racing prediction
