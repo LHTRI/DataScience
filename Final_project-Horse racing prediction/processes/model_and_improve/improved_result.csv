@@ -1,0 +1,4 @@
+units,batch_size,activation,val_loss
+180,112,sigmoid,0.6879827380180359
+145,96,sigmoid,0.7078438997268677
+190,80,sigmoid,0.7005113959312439

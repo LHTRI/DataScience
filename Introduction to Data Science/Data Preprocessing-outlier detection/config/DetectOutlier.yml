@@ -1,0 +1,7 @@
+threshold:
+  check_numeric: 0.95
+  check_email: 0.95
+  check_category: 0.84
+  check_length: 0.95
+  threshold_zscore: 2  # Threshold z_score
+  threshold_iqr: 1  # Threshold IQR
